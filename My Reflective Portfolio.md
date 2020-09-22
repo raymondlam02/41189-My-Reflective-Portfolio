@@ -29,16 +29,37 @@ I have learnt the reasons why people create models and simulations, the intended
 
 # What have I learnt this week?
 This week I learnt how to model human behaviour; rational, behavioural and rule-based. 
+
 Rational - is based on the assumption that each persons behaviour is optimized to achieving their individual goals. Although this model lacks a key function - human irrationality, however this model is most accuraute in situtations where the stakes are high, there are repeated decisions and the choices are straightforward. The rational model is quite mathematical and considers a smaller set of externalitites and works off the assumption that subjects in the model act rationally. 
 
 Behavioural - this model uses a number of basis to more accureltay depict human behaviour, these basis are an attempt to factor in human irrationalities, bais' and general human behaviour. The behavioural model is based on observations of human psychology. 
 
 Rule-based - this model uses psychology to make predictions about human behaviour. Rule based models can be broken down into steps that humans take in order to acomplish a task. 
 
-Signalling models, are used to identify traits that are present in a person
+Signalling models, are used to identify traits that are present from a persons appearance. This is known as consipcious consumption, when a person subconsciously reveals hints about themselves. 
+Sinalling models are applied in a wide variety of ways, large companies are able to buffer their brand image by purchasing other legitimate brands. Through the association with other name brand businesses, consumers and the general public may gain respect for the brand. 
 
+For decisions that have external uncertaintiies, probability models may be ulitized in order to assist the decision maker visualise each outcome. Three types of probablity models include;
+- Classical: Mathematical sense
+- Frequency: Number of specific outcomes
+- Subjective: Guessing and estimating
 
+Value and power
+Last-on-bus value refers to the value of the last person, weakest chain in the link or the person struggling most in a team. In cooporative games if the LOTB vales do not need to exceed the total value of the game, rather the value function shows diminishing returns to scale, then the LOTB value to the team is less than the total value.
 
+Shapeley Value equals a weighted contribution margin by each person on the team. 
+The Shapely satisfies the following conditions:
+- Efficiency
+- Fairness/Symmetry
+- Additivity
+- Zero property
+Useful for calculating the exact value a person has in a team or simply for farily splitting a fare for a taxi ride between friends. 
+
+# What are (my/the) preceived strengths and weaknesses that I have observed?
+This week's workshop had the inclusion of video and text. I found that I respond positively to video stimulius throughout the class and the switch between pictures and text help retain my focus. Again, my note-taking skills proved useful for understanding this weeks content. As our tutor has gone through quite a lot of content this week I was able to look back and revise on the content by visiting a summarized version of this weeks content. 
+
+# What theory proved to be useful and why? What have I learnt from this?
+I found the shapely value specifically interessting and useful as I could relate with the example given in the workshop. I could definately see myself using the shapely value to fairly split the fare of a taxi ride. However, I can also see this being used in the future at work to break down the contribution of each member or the reassess the number of employees required on a specific task. I also learnt about the human condition and how different models attempt to recreate the thought process of humans.
 
 
 
