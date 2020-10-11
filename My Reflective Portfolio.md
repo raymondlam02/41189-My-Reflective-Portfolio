@@ -61,9 +61,15 @@ This week's workshop had the inclusion of video and text. I found that I respond
 # What theory proved to be useful and why? What have I learnt from this?
 I found the shapely value specifically interessting and useful as I could relate with the example given in the workshop. I could definately see myself using the shapely value to fairly split the fare of a taxi ride. However, I can also see this being used in the future at work to break down the contribution of each member or the reassess the number of employees required on a specific task. I also learnt about the human condition and how different models attempt to recreate the thought process of humans.
 
+## Week 4
 
+# What have I learnt this week? 
 
+This week I was introduced to system dynamics, which allow for systems to perform at peak effiency by analysing system feedback. The feedback is comprised of both positive and negative feedback to criqucue things that are working well and things that require immediate attention. System dynamics improve on human capacity to think through logical chains by considering a larger number of externalities. System dynamics consist of sources, sinks, stocks, flows, rates and constants. They work together to produce feedback based on logical chains. 
 
+Systems - are defined by their interlationships and their functionality or potential.  
+Casual loop diagrams - a graph that allows users to visually represent relationships between a number of variables. This allows for users to easily visualise the relaipnships between each variable. 
+Loop diagrams use link polarity and loop identifiers to represent 
 
 
 
