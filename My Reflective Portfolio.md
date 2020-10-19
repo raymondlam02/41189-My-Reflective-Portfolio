@@ -135,6 +135,63 @@ A sequence of objects occur or arrive one after another. The first arrival creat
 Self-organised Critically Model
 The self-organised model produces a power-law distribution by building interdependencies in a system until which a time that the system reaches a critical state. At such time, any following events have often little to no effect on the overall system.
 
+## Week 6
+
+This week's workshop was about how complex systems have developed in time. 
+Path dependence, the ideology that current events depends intricately on moments that precede it. 
+Urn models allow for path dependent models and "phat" dependent models to be distinguished. 
+
+Urn Model - Bernoulli
+The simplest urn model is the Bernoulli model, where there is a fixed number of balls in an urn, the probability that a specific colour is drawn. However, the probability were to change, the more red balls selected the more likely it becomes that a red is drawn again on the next round. This is when the number and distribution of balls becomes path dependent. 
+
+Urn Model - Balancing
+Starting with a blue and a red ball, if one is selected and add a new ball the opposite colour of the ball that was selected. This balancing process can be found investment and Olympic strategies. 
+- Path dependence outcomes: colour of balls in a given period depends on the path taken
+- Path dependent equilibrium: percentage of red balls in the long run depends on the path taken
+- Path dependence: outcome probabilities depend upon the sequence of past outcomes
+- Phat dependence: outcome probabilities depend upon past outcomes but not their order
+
+Markov process converges to a stochastic equilibrium, the Markov processes are not path dependent because the transition probabilities are fixed. 
+Markov process makes three assumptions:
+1. Finite states with fixed transition probabilities between all states
+2. All states are obtainable from any other state
+3. Are not constricted to a simple periodic cycle
+
+- Independent: Outcome doesn't depend on starting point or what happens along the way
+- Initial conditions: Outcome depends on starting state
+- Path dependent: Outcome probabilities depend upon the sequence of past outcomes
+- Phat dependence: Outcome probabilities depend upon past outcomes but not their order
+
+Path dependence or Tipping Points
+
+1. Path dependent outcomes: outcome in a given period, the outcome depends on the path
+2. Path dependent equilibrium: the equilibrium in the long run depends on the path
+
+Random walk models are based on the flip of a coin, where each outcome has a probability of 1/2. Binary random walk, X is set at 0 and each period a fair coin is flipped. If it is heads 1 is added to the total, if tails 1 is subtracted from the total. 
+Results from this model:
+1. After N (even #) of flips the expected total should be zero. 
+2. For any number K, a random walk will pass both -K and +K an infinite number of times.
+3. For any number K, a random walk will have a streak of K heads, (and K tails) an infinite number of times. 
+
+These three results imply that a group doing well will do average over time. It is impossible for a group to continue infinity going well. Thus no single or set of metrics is better all the time. 
+Hot hands is the probability of making a free throw after missing the first is 75%. However, with an understanding of random walk, we know this idea is a myth. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
