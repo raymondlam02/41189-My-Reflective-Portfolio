@@ -1,9 +1,9 @@
-## Week 1 + 100
+## Week 1
 # What have I learnt this week? 
- Week 1's lecture and canvas slides have introduced me to the fundamental concepts of complex systems. Jargon such as systems, complex adaptive systems, distributed control and far from equilibrium have been introduced and broken down to allow us to better understand the workings of different complex systems. I have learnt to appreciate the different levels of complexitiy present in complex systems. The first week has also taught me the adaptive nature of complex systems, and how they differ from other systems. Prior to this class, I knew close to nothing about complex systems. Although I thought I had a vauge idea of what a system consisted, I found my previous assumptions were mostly wrong. I now know the different characteristics of a complex systems and the different categories systems can reside in; complex, chaotic, complicated and obvious. After the first class, I have gained a new appreciation for complex systems. Now that I understand the sheer complexitiies and processes that are involved with complex systems I am involved with everyday I can now fully appreciate complex systems. I have also learnt about social systems and their importance and presence in the lives of humans.
+ Week 1's lecture and canvas slides have introduced me to the fundamental concepts of complex systems. Jargon such as systems, complex adaptive systems, distributed control and far from equilibrium have been introduced and broken down to allow us to better understand the workings of different complex systems. I have learnt to appreciate the different levels of complexity present in complex systems. The first week has also taught me the adaptive nature of complex systems, and how they differ from other systems. Prior to this class, I knew close to nothing about complex systems. Although I thought I had a vague idea of what a system consisted, I found my previous assumptions were mostly wrong. I now know the different characteristics of a complex systems and the different categories systems can reside in; complex, chaotic, complicated and obvious. After the first class, I have gained a new appreciation for complex systems. Now that I understand the sheer complexities and processes that are involved with complex systems I am involved with everyday I can now fully appreciate complex systems. I have also learnt about social systems and their importance and presence in the lives of humans.
 
 # What are (my/the) perceived strengths and weaknesses that I have observed? 
-During this class I have noticed many strenghts such as note taking, I am able to read paragraphs of information and effectively compact it into dot points, ensuring all the information is still in tact whilst condensing the word count. This is extremely helpful for this subject as there is a lot of information in this class. Weaknesses I have observed this week is my attention span, I must condition myself to pay attention to the content the tutor is covering. Althought Complex Systems is quite a long class I must ensure I have my undivided attention whilst present in class.
+During this class I have noticed many strengths such as note taking, I am able to read paragraphs of information and effectively compact it into dot points, ensuring all the information is still in tact whilst condensing the word count. This is extremely helpful for this subject as there is a lot of information in this class. Weaknesses I have observed this week is my attention span, I must condition myself to pay attention to the content the tutor is covering. Although Complex Systems is quite a long class I must ensure I have my undivided attention whilst present in class.
 
 # What would I do better next time and with what anticipated results? 
 Next week I will ensure I have had enough food to eat and am ready to focus in class. I believe this will ensure I yield better results in class and stay focused for longer periods of time.
@@ -11,41 +11,41 @@ Next week I will ensure I have had enough food to eat and am ready to focus in c
 # What theory proved to be useful and why? What have I learnt from this? 
 The definitions was definitely the stand out for this workshop, the basic definition of the technical language used in this course allowed me to grasp an understanding of more difficult concepts and systems. I find that I overlook basic definitions such as systems and adaptive, underestimating their meaning and importance. I have learnt the definition of these word in the correct context and I believe this will serve me well going further into this course.
 
-## Week 2 + 100
+## Week 2
 # What have I learnt this week?
-In this week, I learnt about many model thinking - the ideaology that using a simulation of real-life events yields a more accruate depiction of events. Models are capable of simulating every impact, accurately and effectively, something that humans are unable to do. Models are able to funnel data inputted and organise it into a logical coherent sequence, making it readily avalible for use in the future. I've also learnt about the importance of models and their role in making humans more intelegient citizens of the world and clearer thinkers. By intreperting data generated by models, humans are able to attain a higher understanding of the topic at hand. Models are also capable of assisting the preception of data by highlighting patterns, making predictions and calibrating future models. This week, I have also learnt about the wisdom of crowds and the idea that the data produced from a single model can be misleading, rather the use of multiple models can generate a more educated result. 
+In this week, I learnt about many model thinking - the ideology that using a simulation of real-life events yields a more accurate depiction of events. Models are capable of simulating every impact, accurately and effectively, something that humans are unable to do. Models are able to funnel data inputted and organize it into a logical coherent sequence, making it readily available for use in the future. I've also learnt about the importance of models and their role in making humans more intelligent citizens of the world and clearer thinkers. By interpreting data generated by models, humans are able to attain a higher understanding of the topic at hand. Models are also capable of assisting the perception of data by highlighting patterns, making predictions and calibrating future models. This week, I have also learnt about the wisdom of crowds and the idea that the data produced from a single model can be misleading, rather the use of multiple models can generate a more educated result. 
 
 # What are (my/the) preceived strengths and weaknesses that I have observed?
-This week I came in somewhat more preprared for class, now that I knew I had classes back-to-back I was able to preserve my energy more efficiently and prepare for my 41189 class eariler in the day. However, I still felt that I was unable to keep up with the content my tutor was presenting and there were times where I zoned out.
-My strenghts included my note-taking, although I found myself zoing out for small intervals during the workshop I was able to take note of most of the important concepts my tutor presented. My notes were extremely effective in assisting the retention of information and concepts, ensuring I have easy access to a simplifived version of the workshop to reiterate my understanding of models and complex systems. 
+This week I came in somewhat more prepared for class, now that I knew I had classes back-to-back I was able to preserve my energy more efficiently and prepare for my 41189 class earlier in the day. However, I still felt that I was unable to keep up with the content my tutor was presenting and there were times where I zoned out.
+My strengths included my note-taking, although I found myself zoning out for small intervals during the workshop I was able to take note of most of the important concepts my tutor presented. My notes were extremely effective in assisting the retention of information and concepts, ensuring I have easy access to a simplified version of the workshop to reiterate my understanding of models and complex systems. 
 
 # What would I do better next time and with what anticipated results?
-Next week I am aiming to stay focused throughout the whole workshop and to take advantage of the breaks my tutor offfers to refresh myself, ensuring I am focused during the rest of the workshop. 
+Next week I am aiming to stay focused throughout the whole workshop and to take advantage of the breaks my tutor offers to refresh myself, ensuring I am focused during the rest of the workshop. 
 
 # What theory proved to be useful and why? What have I learnt from this?
-I have learnt the reasons why people create models and simulations, the intended benefits and the importance of using multiple models. This weeks workshop has allowed me to realise the importance of modelling, and its prevalent prescence in our everyday lives. Models are used everyday to predict actions, which allow for relevant changes or adjustments to be made to ensure society is working at its peak efficiency. I have also been introduced to many-model thinkers and how they are able to make smarter, more informed decisions by utliziing the data and information generated by models. 
+I have learnt the reasons why people create models and simulations, the intended benefits and the importance of using multiple models. This weeks workshop has allowed me to realise the importance of modelling, and its prevalent presence in our everyday lives. Models are used everyday to predict actions, which allow for relevant changes or adjustments to be made to ensure society is working at its peak efficiency. I have also been introduced to many-model thinkers and how they are able to make smarter, more informed decisions by utliziing the data and information generated by models. 
 
 ## Week 3
 
 # What have I learnt this week?
 This week I learnt how to model human behaviour; rational, behavioural and rule-based. 
 
-Rational - is based on the assumption that each persons behaviour is optimized to achieving their individual goals. Although this model lacks a key function - human irrationality, however this model is most accuraute in situtations where the stakes are high, there are repeated decisions and the choices are straightforward. The rational model is quite mathematical and considers a smaller set of externalitites and works off the assumption that subjects in the model act rationally. 
+Rational - is based on the assumption that each persons behaviour is optimized to achieving their individual goals. Although this model lacks a key function - human irrationality, however this model is most accurate in situations where the stakes are high, there are repeated decisions and the choices are straightforward. The rational model is quite mathematical and considers a smaller set of externalities and works off the assumption that subjects in the model act rationally. 
 
-Behavioural - this model uses a number of basis to more accureltay depict human behaviour, these basis are an attempt to factor in human irrationalities, bais' and general human behaviour. The behavioural model is based on observations of human psychology. 
+Behavioral - this model uses a number of basis to more accurately depict human behaviour, these basis are an attempt to factor in human irrationalities, bais' and general human behaviour. The behavioural model is based on observations of human psychology. 
 
-Rule-based - this model uses psychology to make predictions about human behaviour. Rule based models can be broken down into steps that humans take in order to acomplish a task. 
+Rule-based - this model uses psychology to make predictions about human behaviour. Rule based models can be broken down into steps that humans take in order to accomplish a task. 
 
-Signalling models, are used to identify traits that are present from a persons appearance. This is known as consipcious consumption, when a person subconsciously reveals hints about themselves. 
-Sinalling models are applied in a wide variety of ways, large companies are able to buffer their brand image by purchasing other legitimate brands. Through the association with other name brand businesses, consumers and the general public may gain respect for the brand. 
+Signaling models, are used to identify traits that are present from a persons appearance. This is known as conspicuous consumption, when a person subconsciously reveals hints about themselves. 
+Signaling models are applied in a wide variety of ways, large companies are able to buffer their brand image by purchasing other legitimate brands. Through the association with other name brand businesses, consumers and the general public may gain respect for the brand. 
 
-For decisions that have external uncertaintiies, probability models may be ulitized in order to assist the decision maker visualise each outcome. Three types of probablity models include;
+For decisions that have external uncertainties, probability models may be ulitized in order to assist the decision maker visualise each outcome. Three types of probability models include;
 - Classical: Mathematical sense
 - Frequency: Number of specific outcomes
 - Subjective: Guessing and estimating
 
 Value and power
-Last-on-bus value refers to the value of the last person, weakest chain in the link or the person struggling most in a team. In cooporative games if the LOTB vales do not need to exceed the total value of the game, rather the value function shows diminishing returns to scale, then the LOTB value to the team is less than the total value.
+Last-on-bus value refers to the value of the last person, weakest chain in the link or the person struggling most in a team. In cooperative games if the LOTB vales do not need to exceed the total value of the game, rather the value function shows diminishing returns to scale, then the LOTB value to the team is less than the total value.
 
 Shapeley Value equals a weighted contribution margin by each person on the team. 
 The Shapely satisfies the following conditions:
@@ -53,23 +53,93 @@ The Shapely satisfies the following conditions:
 - Fairness/Symmetry
 - Additivity
 - Zero property
-Useful for calculating the exact value a person has in a team or simply for farily splitting a fare for a taxi ride between friends. 
+Useful for calculating the exact value a person has in a team or simply for fairly splitting a fare for a taxi ride between friends. 
 
 # What are (my/the) preceived strengths and weaknesses that I have observed?
-This week's workshop had the inclusion of video and text. I found that I respond positively to video stimulius throughout the class and the switch between pictures and text help retain my focus. Again, my note-taking skills proved useful for understanding this weeks content. As our tutor has gone through quite a lot of content this week I was able to look back and revise on the content by visiting a summarized version of this weeks content. 
+This week's workshop had the inclusion of video and text. I found that I respond positively to video stimulus throughout the class and the switch between pictures and text help retain my focus. Again, my note-taking skills proved useful for understanding this weeks content. As our tutor has gone through quite a lot of content this week I was able to look back and revise on the content by visiting a summarized version of this weeks content. 
 
 # What theory proved to be useful and why? What have I learnt from this?
-I found the shapely value specifically interessting and useful as I could relate with the example given in the workshop. I could definately see myself using the shapely value to fairly split the fare of a taxi ride. However, I can also see this being used in the future at work to break down the contribution of each member or the reassess the number of employees required on a specific task. I also learnt about the human condition and how different models attempt to recreate the thought process of humans.
+I found the shapely value specifically interesting and useful as I could relate with the example given in the workshop. I could definitely see myself using the shapely value to fairly split the fare of a taxi ride. However, I can also see this being used in the future at work to break down the contribution of each member or the reassess the number of employees required on a specific task. I also learnt about the human condition and how different models attempt to recreate the thought process of humans.
 
 ## Week 4
 
 # What have I learnt this week? 
 
-This week I was introduced to system dynamics, which allow for systems to perform at peak effiency by analysing system feedback. The feedback is comprised of both positive and negative feedback to criqucue things that are working well and things that require immediate attention. System dynamics improve on human capacity to think through logical chains by considering a larger number of externalities. System dynamics consist of sources, sinks, stocks, flows, rates and constants. They work together to produce feedback based on logical chains. 
+This week I was introduced to system dynamics, which allow for systems to perform at peak efficiency by analysing system feedback. The feedback is comprised of both positive and negative feedback to critique things that are working well and things that require immediate attention. System dynamics improve on human capacity to think through logical chains by considering a larger number of externalities. System dynamics consist of sources, sinks, stocks, flows, rates and constants. They work together to produce feedback based on logical chains. 
 
-Systems - are defined by their interlationships and their functionality or potential.  
-Casual loop diagrams - a graph that allows users to visually represent relationships between a number of variables. This allows for users to easily visualise the relaipnships between each variable. 
-Loop diagrams use link polarity and loop identifiers to represent 
+Systems - are defined by their interrelationships and their functionality or potential.  
+Casual loop diagrams - a graph that allows users to visually represent relationships between a number of variables. The use of loop polarity and identifiers allow users to easily visualise the relationships between each variable. 
+
+There are three fundamental modes of behavior each with unique structure and behaviors; 
+- Exponential growth/decay
+- Goal seeking
+- Oscillation
+
+Common behaviors include;
+- S-shaped growth
+- Growth with overshoot and oscillation
+- Overshoot and collapse
+
+However, casual loop diagrams have their limits;
+Whilst they are useful in capturing mental models, showing interdependencies and processing feedback they become lacking in areas such as capturing an accumulations or flows and helping determine detailed dynamics. 
+
+This weeks workshop also covered network models; where I learnt about the general structure, logic and functionality of networks. 
+
+Networks are made of node and edges, nodes represent each individual entity while the edges unify nodes. Edges can either be directed or undirected. Networks have several characteristics that are used to convey information such as path length, connectedness and formation types. With each characteristic revealing more information about the network the features it beholds. 
+
+Finally, agent based models were introduced this week. Agent based models are used to simulation the interactions between different agents, in an attempt to monitor and process the behaviours of each agent based on their relation to other agents. Agent based models are also able to comprehend the impact each of its agents has on the external environment. Agent based models have proven to be extremely useful to simulate societies response to and the subsequent effects of Covid-19.
+
+Complex Systems vs Complicated Systems: 
+Complex - Loosely connected, unpredictable and adaptive
+Whilst complicated systems are - interconnected, depdendent and predictable. 
+
+Examples of games that exhibit Agent-Based models include:
+- SimCity
+- Sims
+- Civilisation
+
+Traditional scenario modelling attempts to take independent agents into consideration to create a simulation whilst trying to keep the environment in consideration. 
+The agent-based model way encompasses each agent and effectively produces a model which is able to observe, adapt and learn with the environment it is placed into. Thus being more effective and efficient when compared to traditional methods of modelling. 
+
+## Week 5
+
+This week I learnt about aggregating decisions and behaviours. Aggregation is often non-linear thus much more complicated than arithmetic aggregation. Aggregation studies the interations between local components for new properties of behaviours. However, it is also known that individual agents or particles can behave differently when segregated. 
+
+Aggregation of action allows for prediction of points and understanding of data, understanding of complicated patterns from seemingly simple rules and work through logic. 
+
+Probability is understanding the chances of a random outcome occuring from a random process. Although examples of probability are often used in gambling, probability is also prevalent in finance, weather forecasts and insurance firms. 
+
+This week's workshop also included a number of concepts that I was already familar as a student of Business Statistics, although the core concepts were familar, the context and uses in which they are presented in this workshop were new to me.
+A random variable is a collection of potentnial values, subject to random variations, each associated with a probability. 
+Probability distributions represent the probability that one can find the possible vales of the random variable.
+
+Types of Random Variables
+Discrete random variables are numbers that have a finite number of outcomes. 
+Continuous random variables have an infinite number of possible outcomes. It is calculated by measruing the possibility that the variable is a number. 
+
+Central Limit Theorem is a simple and effective model for aggregation of decisions in groups of people. As each agent is left on their own central lilit theorem is able to understand and make predictions about future events. Central limit theorem states that if a group of independent decisions are added together the result will be a Gaussian Distribution.
+
+The formula for the standard deviation of the mean results in larger populations having lower standard deviations when compared to smaller populations. 
+
+In order to intrepret data, a test for significance must be conducted. The test has two results, either there is enough information to either reject or not reject the hypothesis. If an empirical mean lies between the accepeted means, a rejection of the hypothesis is made. 
+
+Six Stigma
+Six stigma method involves working to reduce the size of the standard deviation to lower the proability of a failure. Businesses and governments can do this by introducting some sort of quality control to ensure their plans or products stick to protocol. Six stigma reduces the standard deviation so that even a six-standard-deviation error avoids a malfunction.
+Proabbility is valueable as it grants decision makers more information to intice more informed more efficient decisions. 
+
+Long-tailed distributions model events that have a high proability of occuring. A 'Power Law' is a distribution which is top-heavy followed by a long tail. Long-tailed distributions are created through interdependence.
+There are two models that give rise to power-distribution laws; the preferential attatchment model and the self-organized critically model. 
+Preferential Attatchment Model 
+A sequence of objects occur or arrive one after another. The first arrival creates an 'entity', with each subsequent arrival following the rule: with proability (p), the arrival forms a new entity, with probability (1-p) the arrival joins an exisiting entity. 
+
+Self-organised Critically Model
+The self-organised model produces a power-law distribution by building interdependencies in a system until which a time that the system reaches a critical state. At such time, any following events have often little to no effect on the overall system.
+
+
+
+
+
+
 
 
 
