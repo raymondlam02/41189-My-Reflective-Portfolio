@@ -175,27 +175,61 @@ Results from this model:
 
 These three results imply that a group doing well will do average over time. It is impossible for a group to continue infinity going well. Thus no single or set of metrics is better all the time. 
 Hot hands is the probability of making a free throw after missing the first is 75%. However, with an understanding of random walk, we know this idea is a myth. 
- 
+This week I felt there was a lot of new content, with little reference to previous topics and concepts. This makes it hard to learn and understand new content and its relevance to future assignments and tasks. Also the pace at which the content is presented can be overwhelming at times as there is just so much new content in a single weeks workshop, I was unsure of how in-depth I had to understand this content. 
 
+## Week 7
 
+This week's workshop was about complexity and emergent behavior, specifically learnt about segregation models that can simulate homophily. Schelling’s segregation model is aimed to study the inherent racial and income segregation in many parts of the world. Schelling's model teaches us not to expect macro results from micro incentives, rather the results are often more profound when compared to their initial incentives. Although Schelling’s model has many complexities, two surprisingly simple outcomes can be derived from the results;
+1. An exodus tip occurs when one person leaving causes the similarity percentage of another person to drop below a threshold such that this person leaves as well. So someone moving out, leads to another person moving out.
+2. A genesis tip is occurs when someone moves in and lowers the similarity-wanted percentage such as to cause someone of the opposite characteristic to move out. So one person moves in and this leads to someone else moving out.
 
+Granvetter's Model attempts to model the effect the extremists, often found on the end of the tail in distributions that entice action. Granvetter's model takes 'N' individuals, each of which has a threshold at which point they will be enticed to join a movement. Thus from Granvetters model, it is evident collective action is more likely to occur if thresholds to join are lower and more importantly, the more volatile the thresholds are the more likely contagion will occur. 
 
+Culture is the way a particular group of people think, behave and act. Different situations and locations often have shifts if not completely different cultures.
+Culture is difficult to express however the five characteristics of cultures are;
+- power distance / equality
+- uncertainty avoidance/tolerance
+- individualism/collectivism
+- masculinity/femininity
+- confucianism/dynamism
 
+Coordination refers to the efficiency of decisions and actions. A well-coordinated plan will be consistent, resulting in the majority of tasks or accomplishments being achieved. 
+Where as inefficient coordination is where results are not optimal and fail to maximize benefit for the majority of people. 
 
+Replicator dynamics is the idea that social learning models can be separated into three different disciplines;
+1. Psychology: to model learning
+2. Economics: to model populations of people learning
+3. Ecology: to model evolution
 
+Fisher's Theorem: States that the rate of adaptation is proportional to the variation in that population. Fisher's theorem is an advocate for variation in order to adapt faster to optimal strategies. 
 
+## Week 8
+This week is a continuation to last weeks concepts, about complexity and emergent behaviour. I learnt about the Colonel Blotto Game, the goal of the game is to win the war however in order to win the war one must win 10 minor fights. Each player has the same total amount of troops, with deployments of each fight dependent on the player. 
+Although this is only a game, the applications of thinking derived from this game can be utlized in real-world events. 
+Such as;
+- US Elections
+- Terroism
+- Trials
+- Hirning
+- Sports
+- Business marketing
 
+Prisioners Dilemia is a thought experiment, which demonstrates game theory. Where two prisioners are deprived from outside communication and encouraged to turn each other in, however;
+- If none of the prisioners confess they are both given a minimum sentence
+- If one of the prisioners confess and the other remains silent, the one that remained silent will face a maxium sentence
+- If both of the prisioners confess, they both get a lowered sentence
+Although the most efficient outcome is to both confess the incentives are not aligned with what they want to achieve socially. 
+Game Theory is prevalent in almost all aspects of life, applications of this thought process is especially prevalent in;
+- Arms control
+- Price competittion
+- Technilogical adoption
+- Political campaigns
 
+This week, presubmissions for the assessment were due. Jordan, the leader of our group was extremely helpful as he made a messenger group chat which allowed for easy communication between group memmbers and allowed everyone to stay accountable for their work. Progress before this week had been stagnant and miminial however this week everyone was able to get together and focus on their sections of the assignment. Working with my group so far has been easy and their efforts in the assignment have been extensive and of high quality. We were able to finish early and Jordan was able to complie our work from a Google document into the expected GitHub format. This also gave everyone the opportunity to edit and comment on each others work. As a result of this we were able to present a unified, coherant piece of work for our presubmission.
+Overall I was extremely satisfied with my groups work and their responses to comments and messages. 
 
-
-
-
-
-
-
-
-
-
+Although I was pleased wiht the qulaity of our work, we did face a few challenges. Scheudling group calls or work sessions was quite hard due to the shift to online learning. Group members would often have class or extrenal activities scheduled at different times, making it quite difficiult to meet with the entire group. To combat this we picked the most suitable time for the majorty of the group and made notes and communicated any relevant information to the members that could not make the meeting. 
+Also, our group had trouble with Github as it was a new platform to us. We were able to reach out to other groups for assistance with formatting our document and the addtion of images.
 
 
 
