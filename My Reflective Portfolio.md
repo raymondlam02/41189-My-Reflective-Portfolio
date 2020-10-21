@@ -231,6 +231,26 @@ Overall I was extremely satisfied with my groups work and their responses to com
 Although I was pleased wiht the qulaity of our work, we did face a few challenges. Scheudling group calls or work sessions was quite hard due to the shift to online learning. Group members would often have class or extrenal activities scheduled at different times, making it quite difficiult to meet with the entire group. To combat this we picked the most suitable time for the majorty of the group and made notes and communicated any relevant information to the members that could not make the meeting. 
 Also, our group had trouble with Github as it was a new platform to us. We were able to reach out to other groups for assistance with formatting our document and the addtion of images.
 
+## Week 9
+
+This week Juan gave us the opportunity to work on our assignments for the final submission due in Week 12. However, most of our group members were not able to make this workshop. Jordan and I were the only ones in attendance, however we were still able to make the most of it. We started off by assessing the new parts of the assignment and distributing roles accordingly. Jordan and I were also able to get our group started off with the work by making general enquires about the assignment. We were able to make a checklist for our group members to complete, for each question to ensure our information was presented in accordance with the assignment. 
+
+This week we also assessed the feedback we got from Group 5. Together Jordan and I made comments on our document on areas that could be improved and made a start on edits. We also took in comments from Group 5 and changed our reference system, by combining our references and moving them to the bottom of our assessment.
+
+Jordan and I both believe we should've reached out to Juan eariler for assistance with Jupiter and GitHub as it would've saved us a tremendious amount of time and effort we otherwise wouldn't have had to waste. 
+
+Finally, challegens include our group members not being able to make it to this weeks workshop. However, I believe this was out of their control, they had errands to run and family to attend to. I believe these were isolated, one-off incidents and that this will not happen in following weeks. Thus, overall I am still quite happy with my groups performance and look forward to working with my whole group next week. 
+
+## Week 10
+
+This week, Juan gave us time to work with our groups on the assessment. Our whole group was able to show up to this weeks workshop and we were able to confirm each persons section and catch our group members up information that they missed out on last week. This week we made a slow start on the assignment and we were able to ask more questions regarding the assessment. As our whole group was present this week we were able to make more progress on the assignment, first we re-visted the feedback we received from Group 5. As a group we added comments that addressed the concerns of Group 5 and fixed it accordingly. 
+
+We decided to end our session early, as we agreed that our attention spans and focus was coming to an end after almost of the 3 hours of workshop. We scheudled plans for a future group meeting to check up on each others progress and answer any questions any of us may have. Due to the nature of this task, pervious sections have to be completed in an ordered sequence thus we encouraged members working on the first parts of the assignment. Looking back however I feel it would've been more productive and efficient if we had stayed in call and worked on our assessment for a little while longer. It was likely most of our group procastinated after the workshop and as we had assessments and exams due for other subjects we should've made more use of the allocated time to work on our assessment. 
+
+
+
+
+
 
 
 
